@@ -47,8 +47,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/7a7c2b98-4358-4e7f-8c52-05c3a958b567)
+![image](https://github.com/user-attachments/assets/3e8f0f4e-f692-4e6a-8b78-fe8acc39bcbb)
+
+
+### Name: AHAMADH SULAIMAN M
+### Register Number: 212224230009
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
